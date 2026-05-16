@@ -1,5 +1,5 @@
 def main():
-    print("Hello from rag-crash-course!")
+    print("Hello from rag-pipeline!")
 
 
 if __name__ == "__main__":

@@ -1,5 +1,5 @@
 [project]
-name = "rag-crash-course"
+name = "rag-pipeline"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
